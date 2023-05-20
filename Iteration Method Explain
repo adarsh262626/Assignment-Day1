@@ -1,0 +1,17 @@
+Iteration Method - file Name : Pasc_Tri_Loop.java 
+
+Using for loop with two nested loop inside outer loop 
+
+Start
+
+Let rows = number of rows by user
+Outer loop : Loops trough 0 to rows
+  for each loop (rows) : 1st Inner loop adds space for beatiful output
+                       :  2nd Inner Loop Applyes formula of nCr giving respective pascal value for that position(i,j)
+                            i - gives value of n
+                            j - gives value of r
+                                nCr formula = n!/(n-r)! * r!
+  adds next line for another row to start form fresh line
+
+
+End
