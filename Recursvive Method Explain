@@ -1,0 +1,9 @@
+Recursive Method Explaination
+
+pascal methods returns 
+   1 --> if j == 0 or j == i return 1
+    else  return (sum = pascal*i-1,j-1) and pascal(i-1,j)
+
+refer video or pdf for diagram
+
+
